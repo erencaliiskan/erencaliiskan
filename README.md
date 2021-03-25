@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @erencaliiskan
-- 👀 I’m interested in Front End and Mobile Development.
+- 👀 I’m interested in Web and Mobile Development.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me erencaliiskan@gmail.com
