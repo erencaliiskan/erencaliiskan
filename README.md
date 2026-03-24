@@ -1,5 +1,5 @@
 Hey there! 👋  
-I'm Eren ( some people say Aaron), a 22-year-old business administration student with a passion for mobile app development, AI innovation, and social media marketing. 🚀  
+I'm Eren, a 22-year-old business administration student with a passion for mobile app development, AI innovation, and social media marketing. 🚀  
 
 🔹 Aspiring entrepreneur, blending tech and business to create impactful solutions.  
 🔹 Building apps that inspire, empower, and simplify life.  
